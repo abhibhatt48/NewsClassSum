@@ -19,19 +19,12 @@ To test and  run this project on your device or on web you have to follow below 
 
 ## 1. Fake news classification 
 This task classify the ake news and give a result in the following manner. 
-
-- Main page of all packages availabe: 
-![Alt text](https://drive.google.com/file/d/12FtDXJF7u-Qh2hHNddQYlfFocGS2ihaY/view?usp=drive_link/fake news classif result.png)
+![Alt text](https://drive.google.com/file/d/12FtDXJF7u-Qh2hHNddQYlfFocGS2ihaY/view?usp=drive_link)
 
 ## 2. News classfier 
 This task classify the news categories and make it seprate in multiple categories. 
-
-
-- Sample output when user searches for a particular trip type
-![Alt text](https://res.cloudinary.com/dv0rdcdpa/image/upload/v1690410006/SearchforTrip_rpyl9y.png)
+![Alt text](https://drive.google.com/file/d/1vOTfGyaSBAz_GqociuMbgZh5jGNsbPCE/view?usp=drive_link)
  
-
-
 ## Built With
 
 - [Python](https://www.python.org/) - Development language
