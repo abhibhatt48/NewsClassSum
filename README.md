@@ -21,7 +21,7 @@ To test and  run this project on your device or on web you have to follow below 
 This task classify the ake news and give a result in the following manner. 
 
 - Main page of all packages availabe: 
-![Alt text](https://drive.google.com/file/d/12FtDXJF7u-Qh2hHNddQYlfFocGS2ihaY/view?usp=drive_link)
+![Alt text](https://drive.google.com/file/d/12FtDXJF7u-Qh2hHNddQYlfFocGS2ihaY/view?usp=drive_link/fake news classif result.png)
 
 ## 2. News classfier 
 This task classify the news categories and make it seprate in multiple categories. 
