@@ -21,7 +21,7 @@ To test and  run this project on your device or on web you have to follow below 
 This task classify the ake news and give a result in the following manner. 
 
 - Main page of all packages availabe: 
-![Alt text](https://res.cloudinary.com/dv0rdcdpa/image/upload/v1690410006/packageslistingpage_vu6bse.png)
+![Alt text](https://drive.google.com/file/d/12FtDXJF7u-Qh2hHNddQYlfFocGS2ihaY/view?usp=drive_link)
 
 ## 2. News classfier 
 This task classify the news categories and make it seprate in multiple categories. 
