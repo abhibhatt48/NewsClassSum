@@ -19,7 +19,7 @@ To test and  run this project on your device or on web you have to follow below 
 
 ## 1. Fake news classification 
 This task classify the ake news and give a result in the following manner. 
-![Alt text](https://drive.google.com/file/d/12FtDXJF7u-Qh2hHNddQYlfFocGS2ihaY/view?usp=drive_link)
+![Alt text](https://drive.google.com/file/d/1giVKABqKPrDGI6G3D6FWSWJka5PEQ5Oc/view?usp=drive_link)
 
 ## 2. News classfier 
 This task classify the news categories and make it seprate in multiple categories. 
